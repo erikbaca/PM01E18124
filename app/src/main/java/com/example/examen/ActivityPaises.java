@@ -54,6 +54,7 @@ public class ActivityPaises extends AppCompatActivity {
             }
         });
     }
+
     public void clickNew(View view)
     {
         Intent intent = new Intent(this,ActivityContacto.class);
